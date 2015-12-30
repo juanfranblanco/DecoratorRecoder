@@ -49,3 +49,4 @@ class Program
 
 ```
 
+The implementation uses RealProxy which has a dependency on Remoting, EmitProxy could be used as it only has a dependency on Reflection. [Article + Source](http://www.codeproject.com/Articles/43598/Emit-Proxy)
